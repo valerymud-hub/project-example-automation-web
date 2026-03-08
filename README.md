@@ -1,1 +1,2 @@
-# project-example-automation-web
+# QAInnovationLab
+Automation Team / For education purpose
